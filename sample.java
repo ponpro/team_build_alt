@@ -1,6 +1,7 @@
 //made by ChatGPT
 public class sample {
     public static void main(String[] args) {
+
         System.out.println("=== 九九表 ===\n");
 
         // ヘッダーの印字（1〜9の列見出し）
